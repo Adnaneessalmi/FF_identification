@@ -75,6 +75,13 @@ The application can be run using:
 python ffi.py
 ```
 
+### Demo Video
+
+A short demo of the system in action—showing real-time detection, classification, and friend-or-foe overlay—can be viewed here:
+
+[▶️ Watch the FoF Identification Demo](https://drive.google.com/file/d/1k7CnVhUbsEQteLPuC03RsqndPruo58x6/view?usp=drive_link)
+
+
 ### Model Weights
 
 The pre-trained YOLO v8 model weights (`best.pt` and `last.pt`) are provided in the repository.
